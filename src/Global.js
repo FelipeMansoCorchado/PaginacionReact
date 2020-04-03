@@ -1,4 +1,4 @@
 var Global = {
-  urlpost: "https://apiempleadosfullstack.azurewebsites.net"
+  urlpost: "https://apipaisesfmc.azurewebsites.net"
 };
 export default Global;

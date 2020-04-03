@@ -1,12 +1,12 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
-import Empleados from "./components/Empleados";
+import Paises from "./components/Paises";
 
 function App() {
   return (
     <>
-      <Empleados></Empleados>
+      <Paises></Paises>
     </>
   );
 }
